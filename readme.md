@@ -1,6 +1,7 @@
-# Ketinggalan
-## Features in progress:
-1. Training a model for the AI vision to detect us.
-2. TTS for the AI.
-3. Training a model for the AI voice recognition to parse words.
-4. Connect the RPI to camera and microphone.
+# Ketinggalan (Mbak-chan)
+## Todo list:
+1. Pikirin gimana cara setup.
+2. Latihan telinga.
+3. Pasang mata dan telinga.
+4. Latihan ngomong (berdasarkan input) (KIV)
+5. Latihan mata (KIV)
