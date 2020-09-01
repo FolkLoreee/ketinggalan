@@ -25,14 +25,14 @@ Material bacaan AI:
 
 Material bacaan audio:
 * [Pengenalan Fourier Transformation](https://en.wikipedia.org/wiki/Fourier_transform). Fourier Transformation ini jadi gunanya untuk membagi audio ke dlm beberapa segment. Soalnya, setiap kata yg terucap dari mulut orang itu terdiri dari macem" frekuensi.
-* [Video penjelasan tentang fungsi Fourier Transformation](https://www.youtube.com/watch?v=spUNpyF58BY). Secara matematis, fungsi ini berupa:  
-> $$\int_{t1}^{t2} g(t)e^{-2\pi ift}dt $$ 
-Kalau kita *Fourier*-kan fungsi ini, bisa diliat kalo:
-> $$e^{-2\pi ift}$$
-cuma fungsi untuk gambar lingkaran, dan
-> $$g(t)$$
-cuma fungsi arbitrari (dlm konteks ini fungsi tekanan udara terhadap waktu)
-> $$\int_{t1}^{t2} dt $$
+* [Video penjelasan tentang fungsi Fourier Transformation](https://www.youtube.com/watch?v=spUNpyF58BY). Secara matematis, fungsi ini berupa:  ![Fungsi Fourier](Equations/Fourier01.gif)
+ 
+Kalau kita *Fourier*-kan fungsi ini, bisa diliat kalo: ![Fungsi Fourier01](Equations/Fourier02.gif)
+cuma fungsi untuk gambar lingkaran, dan 
+
+![Fungsi Fourier02](Equations/Fourier03.gif) cuma fungsi arbitrari (dlm konteks ini fungsi tekanan udara terhadap waktu). 
+
+![Fungsi Fourier03](Equations/Fourier04.gif)
 cuma ngasih *magnitude* dari "center of mass" graph nya dari waktu *t1* sampe *t2*. Konsekuensinya itu ya kalo magnitude ini ga deket" sama 0 berarti salah satu konstituen suara itu berasal dari frekuensi tersebut.
 
 <hr>
